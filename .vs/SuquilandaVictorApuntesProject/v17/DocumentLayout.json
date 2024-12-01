@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NotePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\NotePage.xaml.cs",
+              "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\NotePage.xaml.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\NotePage.xaml.cs",
+              "RelativeToolTip": "SuquilandaVictorApuntesProject\\NotePage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvxkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:34:02.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotePage.xaml",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\NotePage.xaml",
+              "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\NotePage.xaml",
+              "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\NotePage.xaml",
+              "RelativeToolTip": "SuquilandaVictorApuntesProject\\NotePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T13:23:30.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AppShell.xaml",
               "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\AppShell.xaml",
               "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AppShell.xaml",
               "RelativeToolTip": "SuquilandaVictorApuntesProject\\AppShell.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-01T12:58:01.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AboutPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AboutPage.xaml.cs",
               "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\AboutPage.xaml.cs",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "SuquilandaVictorApuntesProject\\AboutPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:50:40.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T12:50:40.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AboutPage.xaml",
               "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AboutPage.xaml",
               "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\AboutPage.xaml",
@@ -60,8 +93,7 @@
               "RelativeToolTip": "SuquilandaVictorApuntesProject\\AboutPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T12:45:17.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T12:45:17.72Z"
             }
           ]
         }
