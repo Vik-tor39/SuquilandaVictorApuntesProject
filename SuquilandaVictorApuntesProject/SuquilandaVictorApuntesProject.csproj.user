@@ -11,10 +11,13 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
-    <MauiXaml Update="AboutPage.xaml">
+    <MauiXaml Update="Views\AboutPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="NotePage.xaml">
+    <MauiXaml Update="Views\AllNotesPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views\NotePage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
@@ -23,9 +26,6 @@
       <SubType>Designer</SubType>
     </None>
     <None Update="AppShell.xaml">
-      <SubType>Designer</SubType>
-    </None>
-    <None Update="MainPage.xaml">
       <SubType>Designer</SubType>
     </None>
     <None Update="Platforms\Windows\App.xaml">

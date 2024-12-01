@@ -940,3 +940,4 @@ C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProj
 C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-android\SuquilandaVictorApuntesProject.sourcelink.json
+C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-android\resizetizer\r\drawable\decalius.jpg

@@ -478,3 +478,5 @@ C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProj
 C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\decalius.scale-100.jpg
+C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\decalius.scale-100.jpg
