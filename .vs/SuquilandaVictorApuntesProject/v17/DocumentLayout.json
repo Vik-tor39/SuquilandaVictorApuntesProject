@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -46,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\AppShell.xaml.cs",
               "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AppShell.xaml.cs",
               "RelativeToolTip": "SuquilandaVictorApuntesProject\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T18:35:19.478Z",
               "EditorCaption": ""
@@ -95,8 +95,7 @@
               "RelativeToolTip": "SuquilandaVictorApuntesProject\\Views\\AllNotesPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T17:57:20.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T17:57:20.231Z"
             },
             {
               "$type": "Document",
@@ -148,13 +147,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AppShell.xaml",
               "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\AppShell.xaml",
               "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AppShell.xaml",
               "RelativeToolTip": "SuquilandaVictorApuntesProject\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-01T12:58:01.298Z",
               "EditorCaption": ""
