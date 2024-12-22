@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\viewmodels\\vsuquilandanotesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\viewmodels\\vsuquilandanotesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\viewmodels\\vsuquilandanoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\viewmodels\\vsuquilandanoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|c:\\users\\victo\\source\\suquilandavictorapuntesproject\\suquilandavictorapuntesproject\\viewmodels\\vsuquilandanotesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0239D11C-AA34-40A6-AB1E-F2576E376818}|SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject.csproj|solutionrelative:suquilandavictorapuntesproject\\viewmodels\\vsuquilandanotesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,40 +54,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AppShell.xaml",
-              "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AppShell.xaml",
-              "RelativeToolTip": "SuquilandaVictorApuntesProject\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-21T23:18:11.181Z",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\AppShell.xaml.cs",
+              "RelativeToolTip": "SuquilandaVictorApuntesProject\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:15:30.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\App.xaml",
-              "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\App.xaml",
-              "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\App.xaml",
-              "RelativeToolTip": "SuquilandaVictorApuntesProject\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "NotePage.xaml",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\Views\\NotePage.xaml",
+              "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\Views\\NotePage.xaml",
+              "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\Views\\NotePage.xaml*",
+              "RelativeToolTip": "SuquilandaVictorApuntesProject\\Views\\NotePage.xaml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-21T23:18:08.965Z"
+              "WhenOpened": "2024-12-22T21:05:42.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AllNotesPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\Views\\AllNotesPage.xaml.cs",
               "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\Views\\AllNotesPage.xaml.cs",
               "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\Views\\AllNotesPage.xaml.cs",
               "RelativeToolTip": "SuquilandaVictorApuntesProject\\Views\\AllNotesPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T22:54:22.302Z",
+              "WhenOpened": "2024-12-22T02:33:00.441Z",
               "EditorCaption": ""
             },
             {
@@ -90,33 +99,56 @@
               "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\Views\\AllNotesPage.xaml",
               "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\Views\\AllNotesPage.xaml",
               "RelativeToolTip": "SuquilandaVictorApuntesProject\\Views\\AllNotesPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwDwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-21T22:50:36.23Z",
+              "WhenOpened": "2024-12-22T02:32:31.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\Views\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\Views\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\Views\\AboutPage.xaml.cs",
+              "RelativeToolTip": "SuquilandaVictorApuntesProject\\Views\\AboutPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:26:26.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\Views\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "SuquilandaVictorApuntesProject\\Views\\AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-22T02:26:23.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "VSuquilandaNotesViewModel.cs",
               "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\ViewModels\\VSuquilandaNotesViewModel.cs",
               "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\ViewModels\\VSuquilandaNotesViewModel.cs",
               "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\ViewModels\\VSuquilandaNotesViewModel.cs",
               "RelativeToolTip": "SuquilandaVictorApuntesProject\\ViewModels\\VSuquilandaNotesViewModel.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDAAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T21:56:48.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T21:56:48.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "VSuquilandaNoteViewModel.cs",
               "DocumentMoniker": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\ViewModels\\VSuquilandaNoteViewModel.cs",
               "RelativeDocumentMoniker": "SuquilandaVictorApuntesProject\\ViewModels\\VSuquilandaNoteViewModel.cs",
               "ToolTip": "C:\\Users\\victo\\source\\SuquilandaVictorApuntesProject\\SuquilandaVictorApuntesProject\\ViewModels\\VSuquilandaNoteViewModel.cs",
               "RelativeToolTip": "SuquilandaVictorApuntesProject\\ViewModels\\VSuquilandaNoteViewModel.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAA0wBAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T21:56:48.997Z"
             }

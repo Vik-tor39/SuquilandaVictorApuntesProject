@@ -9,16 +9,18 @@
     </ContentPage.BindingContext>
     <VerticalStackLayout Spacing="10" Margin="10">
         <Image Source="decalius.jpg"
+             x:Name="vsuquilanda_Imagen"  
              SemanticProperties.Description="The dot net bot waving hello!"
              HeightRequest="275"
              HorizontalOptions="Center"
              VerticalOptions="Center"/>
-        <HorizontalStackLayout Spacing="10">
+        <HorizontalStackLayout Spacing="10"
+                               x:Name="vsuquilanda_StackLayout">
             <Label FontSize="22" FontAttributes="Bold" Text="{Binding Title}" VerticalOptions="End" />
             <Label FontSize="22" Text="{Binding Version}" VerticalOptions="End" />
         </HorizontalStackLayout>
 
         <Label Text="{Binding Message}" />
-        <Button Text="Learn more..." Command="{Binding ShowMoreInfoCommand}" />
+        <Button x:Name="vsuquilanda_Button" Text="Learn more..." Command="{Binding ShowMoreInfoCommand}" />
     </VerticalStackLayout>
 </ContentPage>

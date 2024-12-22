@@ -7,19 +7,54 @@
     <ContentPage.BindingContext>
         <viewModels:VSuquilandaNoteViewModel />
     </ContentPage.BindingContext>
-    <VerticalStackLayout Spacing="10" Margin="5">
-        <Editor x:Name="TextEditor"
-                Placeholder="Enter your note"
-                Text="{Binding Text}"
-                HeightRequest="100" />
+    <Grid>
+        <!-- Marca de agua -->
+        <Label x:Name="vsuquilanda_Watermark"
+               Text="Víctor Suquilanda"
+               Opacity="0.1"
+               FontSize="60"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               Rotation="45"
+               TextColor="Gray" />
 
-        <Grid ColumnDefinitions="*,*" ColumnSpacing="4">
-            <Button Text="Save"
-                    Command="{Binding SaveCommand}" />
+        <!-- Contenido principal -->
+        <VerticalStackLayout x:Name="vsuquilanda_MainLayout"
+                             Spacing="10" 
+                             Margin="10" 
+                             Padding="10"
+                             BackgroundColor="White">
+            <!-- Editor de texto -->
+            <Editor x:Name="vsuquilanda_TextEditor"
+                    Placeholder="Enter your note"
+                    Text="{Binding Text}"
+                    HeightRequest="150"
+                    BackgroundColor="#F8F8F8"
+                    TextColor="#333333"
+                    FontSize="16"/>
 
-            <Button Grid.Column="1"
-                    Text="Delete"
-                    Command="{Binding DeleteCommand}" />
-        </Grid>
-    </VerticalStackLayout>
+            <!-- Botones de acción -->
+            <Grid x:Name="vsuquilanda_ButtonGrid"
+                  ColumnDefinitions="*,*"
+                  ColumnSpacing="10">
+                <Button x:Name="vsuquilanda_SaveButton"
+                        Text="Save"
+                        Command="{Binding SaveCommand}"
+                        BackgroundColor="#007BFF"
+                        TextColor="White"
+                        FontAttributes="Bold"
+                        CornerRadius="5" />
+
+                <Button x:Name="vsuquilanda_DeleteButton"
+                        Grid.Column="1"
+                        Text="Delete"
+                        Command="{Binding DeleteCommand}"
+                        BackgroundColor="#FF4136"
+                        TextColor="White"
+                        FontAttributes="Bold"
+                        CornerRadius="5" />
+            </Grid>
+        </VerticalStackLayout>
+    </Grid>
 </ContentPage>

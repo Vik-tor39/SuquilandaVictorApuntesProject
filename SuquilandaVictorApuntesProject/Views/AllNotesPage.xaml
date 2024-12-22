@@ -10,29 +10,55 @@
     </ContentPage.BindingContext>
     <!-- Add an item to the toolbar -->
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Add" Command="{Binding NewCommand}" IconImageSource="{FontImage Glyph='+', Color=Black, Size=22}" />
+        <ToolbarItem x:Name="vsuquilanda_ToolbarItem" Text="Add" Command="{Binding NewCommand}" IconImageSource="{FontImage Glyph='+', Color=Black, Size=22}" />
     </ContentPage.ToolbarItems>
 
     <!-- Display notes in a list -->
-    <CollectionView x:Name="notesCollection"
-                    ItemsSource="{Binding AllNotes}"
-                    Margin="20"
-                    SelectionChangedCommand="{Binding SelectNoteCommand}"
-                    SelectionChangedCommandParameter="{Binding Source={RelativeSource Self}, Path=SelectedItem}">
+    <Grid>
+        <!-- Marca de agua -->
+        <Label x:Name="vsuquilanda_Watermark"
+               Text="Víctor Suquilanda"
+               Opacity="0.1"
+               FontSize="60"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               Rotation="45"
+               TextColor="Gray" />
 
-        <!-- Designate how the collection of items are laid out -->
-        <CollectionView.ItemsLayout>
-            <LinearItemsLayout Orientation="Vertical" ItemSpacing="10" />
-        </CollectionView.ItemsLayout>
+        <!-- Contenido principal -->
+        <CollectionView x:Name="vsuquilanda_NotesCollection"
+                        ItemsSource="{Binding AllNotes}"
+                        Margin="20"
+                        SelectionChangedCommand="{Binding SelectNoteCommand}"
+                        SelectionChangedCommandParameter="{Binding Source={RelativeSource Self}, Path=SelectedItem}">
+            <!-- Layout de los ítems -->
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout Orientation="Vertical" ItemSpacing="10" />
+            </CollectionView.ItemsLayout>
 
-        <!-- Define the appearance of each item in the list -->
-        <CollectionView.ItemTemplate>
-            <DataTemplate>
-                <StackLayout>
-                    <Label Text="{Binding Text}" FontSize="22"/>
-                    <Label Text="{Binding Date}" FontSize="14" TextColor="Silver"/>
-                </StackLayout>
-            </DataTemplate>
-        </CollectionView.ItemTemplate>
-    </CollectionView>
+            <!-- Apariencia de cada ítem -->
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame x:Name="vsuquilanda_NoteItemFrame"
+                           CornerRadius="10"
+                           BorderColor="LightGray"
+                           Padding="10"
+                           HasShadow="True"
+                           BackgroundColor="White">
+                        <StackLayout>
+                            <Label x:Name="vsuquilanda_NoteTextLabel"
+                                   Text="{Binding Text}"
+                                   FontSize="22"
+                                   TextColor="Black" />
+                            <Label x:Name="vsuquilanda_NoteDateLabel"
+                                   Text="{Binding Date}"
+                                   FontSize="14"
+                                   TextColor="Silver" />
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
 </ContentPage>

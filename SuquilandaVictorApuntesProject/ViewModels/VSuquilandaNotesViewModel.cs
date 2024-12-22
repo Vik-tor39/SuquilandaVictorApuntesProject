@@ -46,12 +46,12 @@ namespace SuquilandaVictorApuntesProject.ViewModels
                 if (matchedNote != null)
                 {
                     matchedNote.Reload();
-                    //AllNotes.Move(AllNotes.IndexOf(matchedNote), 0);
+                    AllNotes.Move(AllNotes.IndexOf(matchedNote), 0);
                 }
                 
                 // If note isn't found, it's new; add it.
                 else
-                    AllNotes.Add(new VSuquilandaNoteViewModel(Note.Load(noteId)));
+                    AllNotes.Insert(0, new VSuquilandaNoteViewModel(Models.Note.Load(noteId)));
             }
         }
     }
