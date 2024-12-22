@@ -13,7 +13,7 @@ namespace SuquilandaVictorApuntesProject.ViewModels
         public string Title => AppInfo.Name;
         public string Version => AppInfo.VersionString;
         public string MoreInfoUrl => "https://aka.ms/maui";
-        public string Message => "This app is written in XAML and C# with .NET MAUI.";
+        public string Message => "Hola Mundo. Soy Víctor Suquilanda, estudiante de programación IV, y este es el proyecto MAUI MVVM";
         public ICommand ShowMoreInfoCommand { get; }
 
         public VSuquilandaAboutViewModel()
