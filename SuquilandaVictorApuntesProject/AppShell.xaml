@@ -6,7 +6,6 @@
     xmlns:views="clr-namespace:SuquilandaVictorApuntesProject.Views"
     Shell.FlyoutBehavior="Flyout"
     Title="SuquilandaVictorApuntesProject">
-    
     <TabBar>
         <ShellContent
             Title="Notes"
@@ -37,5 +36,4 @@
             ContentTemplate="{DataTemplate views:AboutPage}"
             Route="AboutPage" />
     </FlyoutItem>
-
 </Shell>

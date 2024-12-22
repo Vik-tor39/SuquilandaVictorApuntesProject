@@ -941,3 +941,5 @@ C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProj
 C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-android\SuquilandaVictorApuntesProject.sourcelink.json
 C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-android\resizetizer\r\drawable\decalius.jpg
+C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-android\android\assets\x86_64\CommunityToolkit.Mvvm.dll
+C:\Users\victo\source\SuquilandaVictorApuntesProject\SuquilandaVictorApuntesProject\obj\Debug\net9.0-android\android\assets\x86_64\CommunityToolkit.Mvvm.pdb
